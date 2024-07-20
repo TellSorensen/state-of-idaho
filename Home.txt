@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The State of Idaho</title>
+	<h1>Idaho</h1>
+	<h2>the Gem State</h2>
+	<nav>
+		<a href="Home.html">Home</a>
+		<a href="#">Cities</a>
+		<a href="Contact.html">Contact<a/>
+	</nav>
+</head>
+
+<body>
+	<h3>Welcome to the great state of Idaho!</h3>
+	<section>
+		<h4>Idaho's State History</h4>
+		<p>The Idaho territory, which at the time of it's creation spanned across all of modern day Montana and most of Wyoming, was signed into being on March 4th, 1863 by President Abraham Lincoln. These substantial borders were not meant to last however as after five years the borders changed again after requests from territorial law enforcement who struggled to cover the entire region. And though the changes in border exceeded the expectations that they had, the state's current borders were set in 1868, and became permanent as Idaho became the 43rd state to enter the union on July 3rd, 1890
+	</section>
+	<aside>
+		<p>test</p>
+	</aside>
+	<article>
+		<h4>Idaho's Economy</h4>
+		<p>Idaho's economy ranks close to the middle in comparison to the rest of the United States, with some of it's main contributors being agriculture, mining, and manufacturing.</p>
+		<h5>Agriculture</h5>
+		<p>Synonymous with the state of Idaho are potatoes, of which the state grows approximately a third of the entire nation's production. However the state also produces wheat, lentils, barley, and oats, as well as sugar beets, peas, beans, and alfalfa seeds to contribute to the overall of the states agricultural income. Important as well are herds of cattle that graze across the state, both sheep and cow, across both plains and plateaus.
+		<h5>Mining</h5>
+		<p>While initial mining expeditions entered the state of Idaho in a gold rush following the discovery of gold in 1860, gold has since become less important in it's current mining industry. The most important metals mined are molybdenum, silver, and lead.</p> 
+		<p>An interesting of Idaho's mining operations is that despite Idaho being known as the 'Gem State' notably for its deposits of opal and garnet in particular, the gemstone mining industry of Idaho contributes comparably little to the overall profit of mining in the state.</p>
+		<h5>Manufacturing</h5>
+		<p>Predominant in Idaho's manufacturing industry is the refinement of various products produced in other sectors, including the processing of food and minerals, but also the refinement of lumber harvested from across the state. 
+	</article>
+</body>
+
+<foot>
+	<p>this is a test</p>
+</foot>
+</html>
+	
+		

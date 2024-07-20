@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="CSSstylesheetrexburg.css" rel="stylesheet">
+	<title>Rexburg, Idaho</title>
+</head>
+
+<body>
+	<header class="header"> 
+        <h1>Idaho</h1>
+	<h2>the Gem State</h2>
+	<nav>
+		<a href="Home.html">Home</a>
+		<a href="#">Cities</a>
+		<a href="Contact.html">Contact<a/>
+	</nav>
+	</header> 
+	<h3>Rexburg, America's Family Community</h3>
+	<section>
+		<table>
+			<caption>Rexburg's Statistics</caption>
+			<tr>
+				<th>Population</th>
+				<th>Incorporated</th>
+				<th>Region Within State</th>
+				<th>City Designation</th>
+				<th>Median Income</th>
+			</tr>
+			<tr>
+				<td>40,462</td>
+				<td>1883</td>
+				<td>Southeast</td>
+				<td>Urban</td>
+				<td>$50,388</td>
+			</tr>
+		</table>
+
+		<p>Founded by pioneers from The Church of Jesus Christ of Latter-Day Saints coming from Utah, Rexburg, was the second largest city in Idaho at the time of its entry to the union. Education has always been central to the city of Rexburg, with the Bannock Stake Academy being founded within the first year of the city’s existence and grew to eventually become Brigham Young university – Idaho in 2001 drawing approximately 15,000 students every year to the area.</p>
+	</section>
+	<aside>
+		<p>Mayor Jerry Lewis</p>
+	</aside>
+	<article>
+		<p>Including several local shops that draw the interest and business of both locals and students, Rexburg </p>
+		<ul>
+			<li>Brigham Young University – Idaho, originally founded as the Bannock Stake Academy in 1888, draws many students from across the globe, with degree options covering both two and four year degree paths.</li>
+			<li>Numerous hikes and scenic walkways, including 'R' Mountain, and Mesa Falls</li>
+			<li>Within 100 miles of several National Parks including Yellowstone National Park.</li>
+		</ul>
+	</article>
+</body>
+
+<foot>
+	<p>this is a test</p>
+</foot>
+</html>
+	
+		

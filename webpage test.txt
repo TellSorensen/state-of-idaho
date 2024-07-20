@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Idaho: the Gem State</title>
+</head>
+
+<body>
+	<h1>Welcome to the great state of Idaho!</h1>
+	<section>
+		<p>test</p>
+	</section>
+	<aside>
+		<p>test</p>
+	</aside>
+	<article>
+		<p>test</p>
+	</article>
+</body>
+
+<foot>
+	<p>this is a test</p>
+</foot>
+</html>
+	
+		

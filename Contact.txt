@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The State of Idaho</title>
+	<h1>Idaho</h1>
+	<h2>the Gem State</h2>
+	<nav>
+		<a href="Home.html">Home</a>
+		<a href="#">Cities</a>
+		<a href="Contact.html">Contact<a/>
+	</nav>
+</head>
+
+<body>
+	<h3>Contact us</h3>
+		<form action="" method="">
+			<input type="text" name="name" id="fullname" placeholder="Your full name...">
+			<input type="text" name="email" id="emailaddress" placeholder="JohnDoe@email.com">
+			<input type="text" name="message" id="textbox" placeholder="Your message here...">
+			<input type="submit" value="Send">
+			
+			

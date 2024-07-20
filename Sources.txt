@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="CSSstylesheetsources.css" rel="stylesheet">
+	<title>Sources</title>
+</head>
+
+<body>
+	<header class="header"> 
+        <h1>Idaho</h1>
+	<h2>the Gem State</h2>
+	<nav>
+		<a href="Home.html">Home</a>
+		<a href="#">Cities</a>
+		<a href="Contact.html">Contact<a/>
+	</nav>
+	</header> 
+	<h3>Information on this Website Gathered and Summarized From...</h3>
+	<ol>
+		<li>U.S. and World Population Clock. United States Census Bureau. (n.d.). https://www.census.gov/popclock/ </li>
+		<li>Bureau, U. S. C. (n.d.). Idaho - Census Bureau Profile. Explore census data. https://data.census.gov/profile/Idaho?g=040XX00US16#income-and-poverty </li>
+		<li>Encyclopædia Britannica, inc. (2024, June 7). Boise. Encyclopædia Britannica. https://www.britannica.com/place/Boise-Idaho </li>
+		<li>U.S. Census Bureau quickfacts: Sandpoint City, Idaho. (n.d.). https://www.census.gov/quickfacts/fact/table/sandpointcityidaho/PST045222 </li>
+		<li>Sandpoint ID, Population. Sandpoint, Idaho population 2024. (n.d.). https://worldpopulationreview.com/us-cities/sandpoint-id-population </li>
+		<li>City of Rexburg. About Rexburg. (n.d.). https://www.rexburg.org/page/about-rexburg </li>
+		<li>History | sandpoint, ID. (n.d.-a). https://www.sandpointidaho.gov/your-government/history </li>
+		<li>Visitors. City of Boise. (n.d.). https://www.cityofboise.org/visitors/ </li>
+		<li>Mayor Jeremy Grimm | Sandpoint, ID. (n.d.-b). https://www.sandpointidaho.gov/your-government/mayor </li>
+		<li>City of Rexburg. Office of the Mayor. (n.d.). https://www.rexburg.org/page/office-of-the-mayor </li>
+		<li>About the mayor. City of Boise. (n.d.-a). https://www.cityofboise.org/departments/mayor/about-the-mayor/ </li>
+		<li>Biography. Congressman Russ Fulcher. (n.d.). https://fulcher.house.gov/biography </li>
+		<li>Meet Mike | U.S. Congressman Mike Simpson - 2nd District of Idaho. (n.d.). https://simpson.house.gov/biography/</li>
+		<li>About - James E Risch, U.S. senator for Idaho. (n.d.). https://www.risch.senate.gov/public/index.cfm/about</li>
+		<li>About Mike | U.S. Senator Mike Crapo of Idaho. (n.d.). Mike Crapo. https://www.crapo.senate.gov/about/about-mike</li>
+		<li>Idaho, A. (2023, June 22). Office of the Governor. Office of the Governor. https://gov.idaho.gov/our-governor/</li>
+		<li>Citation Machine®: APA Format & APA Citation Generator. (n.d.). https://www.citationmachine.net/apa</li>
+		<li>Scribblr - APA Citation Generator. (n.d.). Scribblr. Retrieved July 11, 2024, from https://www.scribbr.com/citation/generator/apa/</li>
+	</ol>
+	<footer>
+		<h5><a href="Contact.html">Contact Us<a/></h5>
+		<p>Address of the Capital Building</p>
+		<div id="address">
+		<address>
+		700 W. Jefferson St.<br>
+		Boise, ID 83702<br>
+		</address>
+		</div>
+		<div id="seal">
+		<img src="Idaho Seal.png" alt="Idaho State Seal" height=200px width=200px>
+		</div>
+	</footer>
+</html>
+			

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The State of Idaho</title>
+	<h1>Idaho</h1>
+	<h2>the Gem State</h2>
+	<nav>
+		<a href="Home.html">Home</a>
+		<a href="#">Cities</a>
+		<a href="Government.html">Government</a>
+		<a href="Contact.html">Contact<a/>
+	</nav>
+</head>
+
+<body>
+	<h3>Sandpoint, on the shores of Pend Oreille</h3>
+	<section>
+		<p>Though Sandpoint was founded as a village in 1901, and changed to a city in 1907, the area was originally founded as a settlement in 1880 as Pend Oreille.</p>
+	</section>
+	<aside>
+		<p>test</p>
+	</aside>
+	<article>
+		<p>Sandpoint has a calendar loaded with numerous events, including The Festival at Sandpoint, and Lost in the 50's. To learn more please visit (website)</p>
+		<ul>
+			<li>Sandpoint was built on the shores of lake Pend Oreille, the 5th deepest freshwater lake in the United States.</li>
+			<li>The over 1-mile ‘Long Bridge’ which connects the city of Sandpoint to the town of Sagle, initially began construction in 1908, and was completed in 1910. Several iterations have been completed since in 1934, 1956, and the current bridge which was completed in 1981.</li>
+			<li>Schweitzer Mountain Ski Resort boasts the largest acreage of any ski resort in Idaho or Washington, with over 2900 acres, and 92 different runs.</li>
+			<li>The Panida Theater, founded in 1927, continues to offer both live entertainment and film selections for its patrons.</li>
+			<li>Dozens of hiking options in the local mountains with beautiful views of the surrounding areas</li>
+		</ul>
+	</article>
+</body>
+
+<foot>
+	<p>this is a test</p>
+</foot>
+</html>
+	
+		

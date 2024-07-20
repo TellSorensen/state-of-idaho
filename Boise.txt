@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="CSSstylesheetboise.css" rel="stylesheet">
+	<title>Boise, Idaho</title>
+</head>
+
+<body>
+	<header class="header"> 
+        <h1>Idaho</h1>
+	<h2>the Gem State</h2>
+	<nav>
+		<a href="Home.html">Home</a>
+		<a href="#">Cities</a>
+		<a href="Contact.html">Contact<a/>
+	</nav>
+	</header> 
+	<h3>Boise, the City of Trees</h3>
+	<section>
+		<table>
+			<caption>Boise's Statistics</caption>
+			<tr>
+				<th>Population</th>
+				<th>Incorporated</th>
+				<th>Region Within State</th>
+				<th>City Designation</th>
+				<th>Median Income</th>
+			</tr>
+			<tr>
+				<td>235,684</td>
+				<td>1864</td>
+				<td>Southwest</td>
+				<td>Urban</td>
+				<td>$81,425</td>
+			</tr>
+		</table>
+		<p>Originally frequented by fur trappers as early as 1812 and gaining increased notoriety in a gold rush in 1862, Boise began developing as a community to provide resources to local gold mines in proximity to the newly established fort Boise in 1863. The city of Boise has served as Idaho’s capital since December of 1864, over twenty years before the Idaho territory was granted statehood. </p>
+	</section>
+	<aside>
+		<p>Mayor </p>
+	</aside>
+	<article>
+		<p>The streets of Boise are rife with public art displays covering near limitless topics and concepts.</p>
+		<ul>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</article>
+</body>
+
+<foot>
+	<p>this is a test</p>
+</foot>
+</html>
+	
+		

@@ -1,0 +1,55 @@
+.header { 
+	background-image: url("Snake River.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+footer {
+	background-color: Navy;
+	height: 320px;
+	padding: 20px;
+	color: white;
+}
+
+footer a {
+	color: white;
+}
+
+footer #address {
+	position: absolute;
+	left: 40px;
+	top: 850px;
+}
+
+#seal {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	bottom: 60px;
+}
+
+nav a {
+	display: block;
+	color: white;
+	padding: 10px 15px;
+	float: center;
+	display: inline;
+}
+
+nav a:hover {
+	background-color: black;
+}
+
+ol {
+	font-family: "Times New Roman", Times, serif;
+}
+
+aside {
+	float: right;
+	width: 400px;
+}
